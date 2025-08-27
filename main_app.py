@@ -1,6 +1,5 @@
 import streamlit as st
-#from groq import Groq
-#import easyocr
+from groq import Groq
 from PIL import Image
 import numpy as np
 import io
